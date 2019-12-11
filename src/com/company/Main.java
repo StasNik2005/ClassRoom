@@ -28,6 +28,7 @@ public class Main {
             System.out.println(pupils[i] );
         }*/
 
+
         System.out.println("----------------------");
         ClassRoom classRoom = new ClassRoom(3);
         classRoom.add(excelentPupil);
